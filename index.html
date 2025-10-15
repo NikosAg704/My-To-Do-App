@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My To-Do App</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="app">
+
+    <!-- 🟦 INTRODUCTION / DESCRIPTION -->
+    <div class="intro-box">
+      <h2>📝 Welcome to “My To-Do List”</h2>
+      <p>
+        (*This application helps you organize and manage your daily activities — such as shopping, 
+        doctor appointments, workouts, meal planning, or work-related tasks.  
+        You can add tasks with due dates, mark them as completed, highlight important ones, 
+        and receive automatic reminders 1–2 days before the deadline or on the same day.*)
+      </p>
+    </div>
+
+    <h1>My To-Do List</h1>
+
+    <div class="input-group">
+      <input type="text" id="taskInput" placeholder="Add a new task..." />
+      <input type="date" id="dueDate" />
+      <button id="addBtn">Add</button>
+    </div>
+
+    <div class="sort-group">
+      <label>Sort by:</label>
+      <select id="sortSelect">
+        <option value="default">Default</option>
+        <option value="date">Due Date</option>
+        <option value="important">Important</option>
+      </select>
+    </div>
+
+    <ul id="tasks"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
