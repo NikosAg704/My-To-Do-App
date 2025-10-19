@@ -53,9 +53,13 @@ yaml
 7. Sort tasks by **Date** or **Importance** from the dropdown  
 
 ---
+📬 Contact
 
-## 💡 Author
-👤 **NikosAg704**  
+If you’re interested in collaboration or feedback:
+
+📧 Email: nikosytf@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/nikolaos-agiasmenakis-9496b0322/
 🔗 [GitHub Profile](https://github.com/NikosAg704)  
 
 ---
