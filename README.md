@@ -57,10 +57,16 @@ yaml
 
 If you’re interested in collaboration or feedback:
 
+📧 Contact
+Created by Nikolaos Agiasmenakis
+
+📞 Phone: +30 694 033 2477
+
 📧 Email: nikosytf@gmail.com
 
+💻 GitHub: https://github.com/NikosAg704
+
 🔗 LinkedIn: https://www.linkedin.com/in/nikolaos-agiasmenakis-9496b0322/
-🔗 [GitHub Profile](https://github.com/NikosAg704)  
 
 ---
 
