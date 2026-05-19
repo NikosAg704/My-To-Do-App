@@ -34,15 +34,6 @@ It helps users organize their daily activities, set deadlines, mark important ta
 
 ---
 
-## 📸 Preview (Optional)
-You can add a screenshot of your app here:
-
-
-yaml
-Αντιγραφή κώδικα
-
----
-
 ## 🚀 How to Use
 1. Type a task in the input field  
 2. (Optionally) choose a due date  
